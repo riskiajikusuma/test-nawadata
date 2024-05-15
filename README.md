@@ -1,9 +1,12 @@
-Tech Stack
+# Tech Stack
 
-- Java Version : 17
-- Build Tools  : Maven
+1. Java Version : 17
+2. Build Tools : Maven
 
-How To Run
+# How To Run
 
-- Run unit test :
+1. Run unit test :
+
+```sh
 mvn test
+```
